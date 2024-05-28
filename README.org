@@ -4,6 +4,6 @@ Gemini client library and experimental GUI
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/omar-polo/phos.git |
-| commit  | 0e6cd15                                   |
+| commit  | ba27e0f                                   |
 | systems | phos                                      |
 |---------+-------------------------------------------|
